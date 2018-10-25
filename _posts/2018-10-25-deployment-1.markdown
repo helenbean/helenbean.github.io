@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Grafana部署"
-description: 测试一下orem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+title:  "ubuntu Grafana部署"
+description: 我们已经累积了大量的运维数据，是时候把它展示出来了。 
 categories: deployment
 author: Helen
 ---
