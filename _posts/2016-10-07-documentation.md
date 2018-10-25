@@ -58,7 +58,7 @@ The theme is optimized for search engines by default.
 ### 3 Customizable categories
 By default, the theme has 3 categories.
 
-1. Design
+1. 部署
 2. Code
 3. Life
 
