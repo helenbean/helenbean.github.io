@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Design for helen website"
+title:  "Grafana 监控运维数据"
 description: Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue.
-date:   2016-09-14 10:50:00 +0530
+date:   2018-10-25 14:16:00
 categories: 部署
-author: ashwathama
+author: helen
 ---
 
 ![rocket design]({{site.baseurl}}/images/rocket.svg)
