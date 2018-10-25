@@ -61,7 +61,6 @@ By default, the theme has 3 categories.
 1. Design
 2. Code
 3. Life
-4. Deployment
 
 You can always change these to your liking or add extra categories by making little changes in the code. Support and directions will be provided upon buying full version.
 
